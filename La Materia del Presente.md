@@ -3,11 +3,14 @@
 
 # La Materia del Presente
 
-c1: G
+## Intro
+c1:  C A      Fm     
 l1: Deja de decir
-c1:    
-l1: Hoy
+c2: A
+l2: Hoy
 
-l1: Deja de decir
+c2:  A
+l3: Deja de decir
 
-l1: Hoy
+c4:  C
+l4: Hoy
