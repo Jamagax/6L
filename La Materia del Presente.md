@@ -4,13 +4,16 @@
 # La Materia del Presente
 
 ## Intro Piano - 1 Beat
+c1:  Am7      Am7 
+
+C2:  Fmaj7    Fmaj7
 
 ## Intro Trompeta - 1 Beat
 
 ## Intro Flauta -1 Beat
 
 ## Verso 1 - Piano y Bajo
-c1:  C A      Fm     
+c1:  Am7      Am7     
 l1: Deja de decir
 c2: A
 l2: Hoy
