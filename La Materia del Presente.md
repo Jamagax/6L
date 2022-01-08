@@ -15,7 +15,7 @@ C2:  Fmaj7    Fmaj7
 ## Verso 1 - Piano y Bajo
 c1:  Am7      Am7     
 l1: Deja de decir
-c2: A
+c2: Am7  
 l2: Hoy
 
 c2:  A
